@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 ?>
 <html>
 <head>
-<title>North of Three &mdash; Software Design Australia..</title>
+<title>North of Three &mdash; Software Design Australia</title>
 <meta name="description" content="North of Three is a software design company based in Australia.">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="en-us" />
