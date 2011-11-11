@@ -155,7 +155,7 @@ error_reporting(E_ALL);
         -webkit-border-radius: 4px;
     }
     a.button:hover {
-        background-color: red;
+        background-color: #111;
         color: white;
     }
     footer {
