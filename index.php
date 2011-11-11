@@ -9,6 +9,8 @@ error_reporting(E_ALL);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Content-Language" content="en-us" />
 
+<link rel="icon" type="image/png" href="/favicon.png">
+
   <style type="text/css" media="screen">
     body{
       margin: 0px;
@@ -54,6 +56,9 @@ error_reporting(E_ALL);
         font-size: 80px;
         display: inline-block;
         margin: 30px auto 0px auto;
+        font-family: Garamond, Georgia, serif;
+        font-weight: bold;
+        letter-spacing:0.001em;
     }
     heading.subheading {
         font-size: 15px;
@@ -81,7 +86,16 @@ error_reporting(E_ALL);
         text-decoration: none;
     }
     article.working-on{
+        padding-left: 315px;
         padding-bottom: 8px;
+        position: relative;
+    }
+    article.working-on img {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        margin: 0px;
+        padding: 0px;
     }
     article.working-on h2{
         margin-bottom: 8px;
@@ -104,18 +118,20 @@ error_reporting(E_ALL);
     }
     section.box .leftcolumn article {
         float: left;
-        width: 285px;
-        border: none;
+        width: 290px;
+        min-height: 157px;
     }
     section.box .leftcolumn article:first-child {
         margin-right: 20px;
     }
+
     section.box h3{
         font-size: 20px;
         border-bottom: 6px solid black;
         display: block;
         font-weight: normal;
         padding-bottom: 6px;
+        margin-bottom: 10px;
     }
     section.box.left {
         float: left;
@@ -183,6 +199,8 @@ error_reporting(E_ALL);
                 
                 <div class="leftcolumn">
                     <article class="working-on">
+                        <img src="sequel-pro-shot.png" alt="Screenshot of Sequel Pro">
+                        
                         <h2>Sequel Pro</h2>
                         <p>MySQL Database Management for Mac OS X Leopard.</p>
                         <a href="http://www.sequelpro.com/" class="button left" title="Sequel Pro" target="_blank">sequelpro.com</a>
@@ -191,6 +209,8 @@ error_reporting(E_ALL);
                     </article>
 
                     <article class="working-on">
+                        <img src="medium-stack-shot.png" alt="Screenshot of Medium Stack">
+                        
                         <h2>Medium Stack</h2>
                         <p>A great way for developers to share images, text and urls.</p>
                         <a href="http://www.mediumstack.com/" class="button left" title="Medium Stack" target="_blank">mediumstack.com</a>
@@ -202,7 +222,7 @@ error_reporting(E_ALL);
                 </div>
                 
             </section>
-            
+            <? /* ?>
             <section class="box twocol" style="width: 295px; margin-right: 10px;">
                 <h3>We likey <a href="http://mediumstack.com/mattlangtree/ipad_links" class="lucida">&raquo;</a></h3>
 		
@@ -261,7 +281,7 @@ error_reporting(E_ALL);
 			<?php $i++; endforeach; ?>
 				
 		</section>
-        
+        <? */r ?>
         <div class="clr"></div>
 
         <footer>
