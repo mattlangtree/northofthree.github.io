@@ -42,7 +42,7 @@
 
                     <article class="working-on medium-stack">
                         <span class="image-wrapper">
-							<span class="image-tag">WEB + IPHONE</span>
+							<span class="image-tag">WEB + IPHONE*</span>
 							<img src="medium-stack-devices.png" alt="Screenshot of Medium Stack"></span>
                         
                         <h2>Medium Stack</h2>
@@ -65,6 +65,7 @@
 		</heading>
 		<div class="clr"></div>
         <footer>
+			<small>iPhone app currently being reviewed by Apple. Will be available shortly.</small>
             <br />&copy; 2011 &mdash; North of Three
         </footer>
 	</div>
