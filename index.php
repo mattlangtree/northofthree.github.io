@@ -61,8 +61,7 @@
 		</heading>
 		<div class="clr"></div>
         <footer>
-            Powered by <a href="http://www.mediumstack.com/" target="_blank">Medium Stack</a>.
-            <br />Copyright &copy; 2011 &mdash; North of Three.
+            <br />&copy; 2011 &mdash; North of Three
         </footer>
 	</div>
 </div>
