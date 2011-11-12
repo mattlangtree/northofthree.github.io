@@ -24,11 +24,13 @@
             
             <section class="box left">
                 
-                <h3>Projects</h3>
+                <h3>&nbsp;</h3>
                 
                 <div class="leftcolumn">
                     <article class="working-on sequel-pro">
-                        <span class="image-wrapper"><img src="sequel-pro-logo.png" alt="Screenshot of Sequel Pro"></span>
+                        <span class="image-wrapper">
+							<span class="image-tag">MAC</span>
+							<img src="sequel-pro-logo.png" alt="Screenshot of Sequel Pro"></span>
                         
                         <h2>Sequel Pro</h2>
                         <p>MySQL Database Management for Mac OS X Leopard.</p>
@@ -39,7 +41,9 @@
                     </article>
 
                     <article class="working-on medium-stack">
-                        <span class="image-wrapper"><img src="medium-stack-devices.png" alt="Screenshot of Medium Stack"></span>
+                        <span class="image-wrapper">
+							<span class="image-tag">WEB + IPHONE</span>
+							<img src="medium-stack-devices.png" alt="Screenshot of Medium Stack"></span>
                         
                         <h2>Medium Stack</h2>
                         <p>A great way for developers to share images, text and urls.</p>
