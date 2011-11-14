@@ -33,7 +33,7 @@
 							<img src="sequel-pro-logo.png" alt="Screenshot of Sequel Pro"></span>
                         
                         <h2>Sequel Pro</h2>
-                        <p>MySQL Database Management for Mac OS X Leopard.</p>
+                        <p>MySQL Database Management for Mac OS X.</p>
 						<span class="actionlinks">
 							<a href="http://www.sequelpro.com/" class="button left" title="Sequel Pro" target="_blank">sequelpro.com</a>
 						    <a href="http://www.twitter.com/sequelpro" class="button left" title="Follow Sequel pro on Twitter" target="_blank">@sequelpro</a>
@@ -49,7 +49,7 @@
                         <p>A great way for developers to share images, text and urls.</p>
 						<span class="actionlinks">                        
 							<a href="http://www.mediumstack.com/" class="button left" title="Medium Stack" target="_blank">mediumstack.com</a>
-						    <a href="http://www.twitter.com/sequelpro" class="button left" target="_blank">@mediumstack</a>
+						    <a href="http://www.twitter.com/mediumstack" class="button left" target="_blank">@mediumstack</a>
 						</span>                    
                     </article>
                     
