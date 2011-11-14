@@ -33,7 +33,7 @@
 							<img src="sequel-pro-logo.png" alt="Screenshot of Sequel Pro"></span>
                         
                         <h2>Sequel Pro</h2>
-                        <p>MySQL Database Management for Mac OS X.</p>
+                        <p>MySQL Database Management for Mac OS X. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
 						<span class="actionlinks">
 							<a href="http://www.sequelpro.com/" class="button left" title="Sequel Pro" target="_blank">sequelpro.com</a>
 						    <a href="http://www.twitter.com/sequelpro" class="button left" title="Follow Sequel pro on Twitter" target="_blank">@sequelpro</a>
