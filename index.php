@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-Language" content="en-us" />
 
 	<link rel="icon" type="image/png" href="/favicon.png">
-	<link href="/main.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="/main.css?1" media="screen" rel="stylesheet" type="text/css" />
 
 	
 </head>
