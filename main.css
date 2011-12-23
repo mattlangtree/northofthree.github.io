@@ -14,6 +14,10 @@ span.lucida {
 p {
     font-size: 20px;
 }
+h3 {
+	font-size: 18px;
+	margin-bottom: 4px;
+}
 a.btn {
   -webkit-border-bottom-left-radius: 6px 6px;
   -webkit-border-bottom-right-radius: 6px 6px;
@@ -64,6 +68,8 @@ heading.subheading a.button {
 }
 heading.botomcta {
 	display: block;
+	margin-top: 25px;
+	border-top: 1px dotted #CCC;
 	border-bottom: 1px dotted #CCC;
 }
 heading.botomcta p{
@@ -218,3 +224,39 @@ footer {
 	padding-top: 12px;
 	padding-bottom: 12px;
 }
+
+#other-projects {
+	font-size: 14px;
+}
+#other-projects dl {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+#other-projects dt {
+	clear: left;
+	padding: 0px;
+	margin: 4px 0px;
+	float: left;
+	padding: 6px 0px 6px 0px;
+}
+#other-projects dt a {
+	font-weight: normal;
+	padding: 4px;
+}
+#other-projects dt a:hover {
+	border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: black;
+	color: white;
+}
+#other-projects dd {
+	padding: 6px 0px 6px 0px;
+	margin-left: 5px;
+	margin: 4px 0px 4px 10px;
+	color: #666;
+	float: left;
+	font-style: italic;
+}
+

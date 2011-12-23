@@ -19,7 +19,7 @@
 			</div>
 			
 			<heading class="subheading">
-				<p>North of Three is a software design company based in  Australia. </p>
+				<p>We make software for developers.</p>
 			</heading>
             
             <section class="box left">
@@ -58,11 +58,36 @@
                 
             </section>
 
+
         <div class="clr"></div>
 
-		<heading class="botomcta">
-			<p class="contactus"><a href="http://twitter.com/nof3" class="button" target="_blank" title="Follow North of Three on Twitter">Follow us on Twitter</a></p>
-		</heading>
+
+			<div id="other-projects">
+				
+				<h3>Other Open Source Projects</h3>
+				
+				<dl>
+					<dt><a href="http://abhibeckert.github.com/Dux/" title="abhibeckert/Dux @ GitHub" target="_blank">Dux</a> &nbsp; // </dt>
+					<dd>Simple code editor for Mac OS X</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://abhibeckert.github.com/Open-Torch/" title="Open Torch - Torch app for iPhone 4" target="_blank">Open Torch</a> &nbsp; // </dt>
+					<dd>Torch app for iPhone 4(S)</dd>
+				</dl>
+				<dl>
+					<dt><a href="https://github.com/mattlangtree/DataTable" title="iPad Data Table" target="_blank">iPad Data Table</a> &nbsp; // </dt>
+					<dd>A simple iPad project for visualising web data in a table format.</dd>
+				</dl>
+				
+			</div>
+
+	        <div class="clr"></div>
+			
+			<heading class="botomcta">
+				<p class="contactus"><a href="http://twitter.com/northofthree" class="button" target="_blank" title="Follow North of Three on Twitter">Follow us on Twitter</a></p>
+			</heading>
+			
+					
 		<div class="clr"></div>
         <footer>
 			<small>iPhone app currently being reviewed by Apple. Will be available shortly.</small>
