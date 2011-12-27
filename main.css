@@ -44,11 +44,13 @@ a.btn {
 }
 #head heading{
     font-size: 80px;
-    display: inline-block;
-    margin: 30px auto 0px auto;
-    font-family: Garamond, Georgia, serif;
-    font-weight: bold;
-    letter-spacing:0.001em;
+	display: block;
+	position: relative;
+	margin: 30px auto 0px auto;
+	font-family: Garamond, Georgia, serif;
+	background: transparent url(logo.png) no-repeat top center;
+	text-indent: -10000px width: 310px;
+	height: 196px;
 }
 heading.subheading {
     font-size: 15px;
