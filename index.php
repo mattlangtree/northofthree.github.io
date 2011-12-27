@@ -15,7 +15,7 @@
 		<div id="innerwrapper">
 			
 			<div id="head">
-				<heading><!-- North of Three --></heading>
+				<heading>North of Three</heading>
 			</div>
 			
 			<heading class="subheading">
