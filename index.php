@@ -8,6 +8,8 @@
 	<link rel="icon" type="image/png" href="/favicon.png">
 	<link href="/main.css?1" media="screen" rel="stylesheet" type="text/css" />
 
+	<script type="text/javascript" src="//use.typekit.net/stw0coy.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 </head>
 <body>
@@ -21,7 +23,10 @@
 			<heading class="subheading">
 				<p>We make software for developers.</p>
 			</heading>
-            
+
+			<div class="secret-app">
+				<p><strong>COMING SOON</strong> <br />Developer Utility for iPhone and iPad.</p>
+            </div>            
             <section class="box left">
                 
                 <h3>&nbsp;</h3>
@@ -42,7 +47,7 @@
 
                     <article class="working-on medium-stack">
                         <span class="image-wrapper">
-							<span class="image-tag">WEB + IPHONE*</span>
+							<span class="image-tag">WEB + MAC</span>
 							<img src="medium-stack-devices.png" alt="Screenshot of Medium Stack"></span>
                         
                         <h2>Medium Stack</h2>
@@ -90,8 +95,7 @@
 					
 		<div class="clr"></div>
         <footer>
-			<small>iPhone app currently being reviewed by Apple. Will be available shortly.</small>
-            <br />&copy; 2011 &mdash; North of Three
+            <br />&copy; 2012 &mdash; North of Three
         </footer>
 	</div>
 </div>
