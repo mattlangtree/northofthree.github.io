@@ -29,7 +29,7 @@ a.btn {
 #centered{
   text-align: center;
 	margin: 0px auto;
-	width: 750px;
+	width: 858px;
 }
 #innerwrapper{
   position: relative;
@@ -108,17 +108,17 @@ article heading a{
 }
 article.working-on{
     padding-bottom: 8px;
-	
-    position: relative;
-	
+    position: relative;	
 }
 article.working-on span.image-wrapper {
 	padding: 8px 0px 15px;
-	background-color: #F2F2F2;
+	background-color: white;
 	display: block;
 	text-align: center;
 	border-bottom: 1px dotted #999;
 	position: relative;
+	overflow: hidden;
+    height: 270px;
 }
 article.working-on span.image-wrapper span.image-tag {
 	position: absolute;
@@ -127,9 +127,6 @@ article.working-on span.image-wrapper span.image-tag {
 	background-color: black;
 	color: white;
 	padding: 5px;
-}
-article.working-on.medium-stack span.image-wrapper {
-	padding: 0px;
 }
 article.working-on img {
     margin: 0px;
@@ -147,10 +144,14 @@ article.working-on p{
 }
 
 section.box .leftcolumn article.working-on.sequel-pro {
-	width: 350px;
+    width: 270px;
+}
+section.box .leftcolumn article.working-on.barry {
+    width: 270px;
+    margin-right: 20px;
 }
 section.box .leftcolumn article.working-on.medium-stack {
-	width: 378px;
+	width: 270px;
 }
 a:hover {
     color: red;
@@ -160,7 +161,7 @@ section.box {
 }
 section.box .leftcolumn article {
     float: left;
-    width: 278px;
+    width: 274px;
     min-height: 300px;
 }
 section.box .leftcolumn article:first-child {
@@ -263,16 +264,3 @@ footer {
 	font-style: italic;
 }
 
-.secret-app {
-	background: transparent url(secret-app.jpg) no-repeat 30px 0px;
-	width: 750px;
-	height: 120px;
-	border-top: 6px solid black;
-	margin-bottom: -13px;
-}
-.secret-app p {
-	padding-top: 10px;
-	padding-left: 320px;
-	font-family: Georgia, serif;
-	line-height: 1.8em;
-}

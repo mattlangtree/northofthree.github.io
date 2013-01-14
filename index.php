@@ -7,9 +7,6 @@
 
 	<link rel="icon" type="image/png" href="/favicon.png">
 	<link href="/main.css?1" media="screen" rel="stylesheet" type="text/css" />
-
-	<script type="text/javascript" src="//use.typekit.net/stw0coy.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 </head>
 <body>
@@ -24,18 +21,17 @@
 				<p>We make software for developers.</p>
 			</heading>
 
-			<div class="secret-app">
-				<p><strong>COMING SOON</strong> <br />Developer Utility for iPhone and iPad.</p>
-            </div>            
             <section class="box left">
                 
                 <h3>&nbsp;</h3>
                 
                 <div class="leftcolumn">
+	
+					<!-- Sequel Pro -->
                     <article class="working-on sequel-pro">
                         <span class="image-wrapper">
 							<span class="image-tag">MAC</span>
-							<img src="sequel-pro-logo.png" alt="Screenshot of Sequel Pro"></span>
+							<img src="sequel-pro-logo.jpg" alt="Screenshot of Sequel Pro" width="270" height="270"></span>
                         
                         <h2>Sequel Pro</h2>
                         <p>MySQL Database Management for Mac OS X. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
@@ -45,16 +41,32 @@
 						</span>                    
                     </article>
 
+					<!-- BARRY APP -->
+                    <article class="working-on barry">
+                        <span class="image-wrapper">
+							<span class="image-tag">IPHONE/IPAD</span>
+							<img src="barry-logo.jpg" width="270" height="270" alt="Screenshot of Barry App">
+						</span>
+                        
+                        <h2>Barry</h2>
+                        <p>Save full length screenshots of web pages.</p>
+						<span class="actionlinks">                        
+							<a href="http://www.barryapp.com/" class="button left" title="Medium Stack" target="_blank">barryapp.com</a>
+						    <a href="http://www.twitter.com/northofthree" class="button left" target="_blank">@northofthree</a>
+						</span>                    
+                    </article>
+
+                    <!-- Medium Stack -->
                     <article class="working-on medium-stack">
                         <span class="image-wrapper">
 							<span class="image-tag">WEB + MAC</span>
-							<img src="medium-stack-devices.png" alt="Screenshot of Medium Stack"></span>
+							<img src="medium-stack-devices.png" alt="Screenshot of Medium Stack" width="270"></span>
                         
                         <h2>Medium Stack</h2>
                         <p>A great way for developers to share images, text and urls.</p>
 						<span class="actionlinks">                        
 							<a href="http://www.mediumstack.com/" class="button left" title="Medium Stack" target="_blank">mediumstack.com</a>
-						    <a href="http://www.twitter.com/mediumstack" class="button left" target="_blank">@mediumstack</a>
+						    <!-- <a href="http://www.twitter.com/northofthree" class="button left" target="_blank">@northofthree</a> -->
 						</span>                    
                     </article>
                     
