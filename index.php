@@ -107,7 +107,7 @@
 					
 		<div class="clr"></div>
         <footer>
-            <br />&copy; 2012 &mdash; North of Three
+            <br />&copy; 2013 &mdash; North of Three
         </footer>
 	</div>
 </div>
